@@ -43,8 +43,8 @@ Baskrav
       - BK 1.2 - All information och alla tjänster ska vara kopplade till kartan.
       - BK 1.3 - All information ska var aktuell och uppdaterat regelbundet.
    - BK 2 - Tjänsten ska vara säker, med olika nivåer av tjänster.
-      BK 2.1 - Vilken information som ska vara tillgänglig ska vara noggrant genomtänkt.
-      BK 2.2 - Viss information ska vara tillgänglig alla, medan annan information ska endast vara tillgänglig vid inloggning.
+      - BK 2.1 - Vilken information som ska vara tillgänglig ska vara noggrant genomtänkt.
+      - BK 2.2 - Viss information ska vara tillgänglig alla, medan annan information ska endast vara tillgänglig vid inloggning.
    - BK 3 - Tjänsten ska vara gratis.
-      BK 3.1 - Tjänsten ska vara gratis för alla användare.
-      BK 3.2 - Lösningen däremot ska kunna säljas till andra kommuner som vill implemetera den.
+      - BK 3.1 - Tjänsten ska vara gratis för alla användare.
+      - BK 3.2 - Lösningen däremot ska kunna säljas till andra kommuner som vill implemetera den.
