@@ -16,19 +16,19 @@ När all information är tillgänglig online kan man vidareutveckla idén och g�
 
 Användargrupper
 ---------------
-***Ingenjörer / Byggnadsentreprenörer***
+**Ingenjörer / Byggnadsentreprenörer**  
 Dessa kan lätt se vilka lagar och regler som gäller för en viss tomt eller mark då de ska göra rita ett byggprojekt  eller renoveringsprojekt
 
-***Kommunens ingenjör***
+**Kommunens ingenjör**  
 Denne kommer ha ansvar för att se till så att informationen är uppdaterad och korrekt.
 
-***Säljare/Köpare***
+**Säljare/Köpare**  
 Dessa kan använda tjänsten för att lättare komma i kontakt med varandra.
 
 
 Intressenter
 ------------
-**Luca De Carlo**
+**Luca De Carlo**  
 Kommunens borgmästare
 
 
