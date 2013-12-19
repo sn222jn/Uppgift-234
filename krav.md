@@ -39,6 +39,7 @@ Byggingenjören har ett användarkonto med ingenjör privilegier och är inlogga
    2. **Systemet** meddelar byggingenjören att kontakta kommuningenjören eftersom den begärda informationen inte finns.
    3. **Byggingenjören** kontaktar kommuningenjören angående den begärda informationen.
    4. **Kommuningenjören** lokaliserar informationen manuellt och vidarebefordrar den till ingenjören.
+<<<<<<< HEAD
 Användningsfall
 ---------------
 	1. **Bygga ett hus:** En ingenjör har fått till uppdrag att göra ett byggnadsprojekt för ett hus åt en kund. Ingenjören kan gå in på kommunens webbsida och logga in. Ingenjören har tillgång till teknisk information som inte är tillgängliga allmänheten. På webbsidan kan denne se alla lagar och regler som gäller för tomten i fråga och på så sätt lätt påbörja projektet med rätt sätt.
@@ -48,3 +49,8 @@ Användningsfall
 	3.	**Sälja en tomt:** En person väljer att sälja sin tomt. Säljaren skapar ett användarkonto på kommunen webbsida genom att ange ett användarnamn, lösenord, personnummer, adress och telefonnummer. Säljaren kan nu meddela kommunens ingenjör via ett formulär att denne vill sälja e tomt. Ingenjören bekräftar att säljaren är ägaren och  uppdaterar systemet med säljarens information. Säljaren kan nu se sin tomt på sin användarsida och välja om den är till salu eller inte. Säljaren kan också upprepa processen för att lägga till flera tomter.
 	
 	4.	**Ge Information:** Kommunens ingenjör får en fråga angående en tomt av en äldre person som aldrig har använt internet innan. Ingenjören loggar in på systemet och klickar sedan på tomten på kartan och får upp all information som är länkad till tomten. Ingenjören kan 
+=======
+
+ 
+
+>>>>>>> temp
